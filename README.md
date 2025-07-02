@@ -18,6 +18,16 @@ Criei o **Jesusinho Virtual**, um assistente com IA que une **tecnologia e fé**
 - Reações animadas com expressões
 - Interface amigável e visual
 
+  
+---
+
+- ## 😇 Acesse o Jesusinho Virtual
+
+[![Visitar Site](https://img.shields.io/badge/Ir%20para%20o%20Jesusinho-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://jesusinho.netlify.app)
+
+> Assistente virtual com IA generativa, reações visuais e mensagens espirituais personalizadas. Desenvolvido com fé e Python 💻✝️
+
+
 ---
 
 ## 🚀 Tecnologias que uso
