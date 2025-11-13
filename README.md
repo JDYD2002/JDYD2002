@@ -2,7 +2,7 @@
 
 
 # 👋 Fala aí, eu sou o Felipe Braga! 😇  
-### Ou como me chamam por aí: **Bragabyte** ⚡💻
+### Ou como me chamam por aí: **BragaDev** ⚡💻
 
 Sou estudante de **Engenharia da Computação**, apaixonado por **IA generativa, programação com propósito e criatividade aplicada**.  
 Criei o **Jesusinho Virtual**, um assistente com IA que une **tecnologia e fé**, ajudando pessoas com mensagens, orações e empatia!
