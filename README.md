@@ -30,23 +30,20 @@ Criei o **Jesusinho Virtual**, um assistente com IA que une **tecnologia e fé**
 ---
 
 ### [🚑 Projeto da Saúde — Agente Inteligente](https://youtu.be/1KTAnAZEpB0)
-
-Sistema com IA generativa para auxiliar usuários a se previnirem.
-
-Funcionalidades
-
--Login por CEP mostrando o posto de saúde mais próximo
--Integração com ESP32 para emergências
--IA generativa para prevenções
--Firebase + FastAPI
--Dados atualizados continuamente (sem histórico pesado)
--Pensado para um fluxo real de atendimento
+- Login por CEP mostrando o posto de saúde mais próximo
+- Integração com ESP32 para emergências
+- IA generativa para prevenções
+- Firebase + FastAPI
+- Dados atualizados continuamente (sem histórico pesado)
+- Pensado para um fluxo real de atendimento
   
 ---
 
 - ## 😇 Acesse o Hoper
 
-[![Visitar Site](https://img.shields.io/badge/Ir%20para%20o%20Jesusinho-gray?style=for-the-badge&logo=netlify&logoColor=white)](https://hoper.netlify.app/)
+[![Visitar Site](https://img.shields.io/badge/Ir%20para%20o%20Hoper-gray?style=for-the-badge&logo=netlify&logoColor=white)](https://hoper.netlify.app/)
+
+> Sistema inteligente com IA generativa, com botões de emergência e postos próximos. Desenvolvido com propósito e tecnologia para cuidar de pessoas. 💻❤️
 
 ## 🚀 Tecnologias que uso
 
