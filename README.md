@@ -1,5 +1,4 @@
-<img src="IO.gif" width="30%" />
-
+ <img src="IO.gif" width="30%" /><img src="IO.gif" width="30%" /><img src="IO.gif" width="30%" />
 
 # 👋 Fala aí, eu sou o Felipe Braga! 😇  
 ### Ou como me chamam por aí: **BragaDev** ⚡💻
