@@ -69,6 +69,7 @@ Criei o **Jesusinho Virtual**, um assistente com IA que une **tecnologia e fé**
 
 > “Codificando com propósito.” 🙏  
 > ✝️ **Tecnologia com essência e impacto real.**
+
 > *“O Espírito de Deus o encheu de sabedoria para criar invenções.”*  
 > — Êxodo 35:31–33 (ACF)
 
