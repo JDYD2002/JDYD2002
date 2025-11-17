@@ -13,7 +13,6 @@ Criei o **Jesusinho Virtual**, um assistente com IA que une **tecnologia e fé**
 
 ### [🤖 Jesusinho Virtual – IA com propósito espiritual](https://youtu.be/L2Ikb_gX0Hc)
 - IA generativa com múltiplas fontes (OpenAI, Hugging Face, AI21)
-- Voz natural com gTTS
 - Memória de conversa
 - Reações animadas com expressões
 - Interface amigável e visual
@@ -30,7 +29,28 @@ Criei o **Jesusinho Virtual**, um assistente com IA que une **tecnologia e fé**
 
 ---
 
+### [🚑 Projeto da Saúde — Agente Inteligente](https://youtu.be/1KTAnAZEpB0)
+
+Sistema com IA generativa para auxiliar usuários a se previnirem.
+
+Funcionalidades
+
+-Login por CEP mostrando o posto de saúde mais próximo
+-Integração com ESP32 para emergências
+-IA generativa para prevenções
+-Firebase + FastAPI
+-Dados atualizados continuamente (sem histórico pesado)
+-Pensado para um fluxo real de atendimento
+  
+---
+
+- ## 😇 Acesse o Hoper
+
+[![Visitar Site](https://img.shields.io/badge/Ir%20para%20o%20Jesusinho-gray?style=for-the-badge&logo=netlify&logoColor=white)](https://hoper.netlify.app/)
+
 ## 🚀 Tecnologias que uso
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +58,8 @@ Criei o **Jesusinho Virtual**, um assistente com IA que une **tecnologia e fé**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IA Generativa](https://img.shields.io/badge/IA%20Generativa-purple?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
