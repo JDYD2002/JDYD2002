@@ -1,4 +1,4 @@
-<img src="jesusinho.gif" width="50%" />
+<img src="IO" width="50%" />
 
 
 # 👋 Fala aí, eu sou o Felipe Braga! 😇  
